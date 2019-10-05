@@ -9,14 +9,14 @@
 ## Installation & Configuration
 Follow these step to install Calculator App
 ```
-$ git clone https://github.com/
+$ git clone https://github.com/rahmat-st/calculator-app
 $ npm install
 $ react-native run-android 
 ```
 
 ## Support Me
 * Star this repository
-* Hire Me : www.linkedin.com/in/
+* Hire Me : www.linkedin.com/in/rahmat-st
 ## Contact
   * WA/TELEGRAM: +62 831 9095 9109
   * Website: http://rahmat-st.github.io
